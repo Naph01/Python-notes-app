@@ -53,5 +53,5 @@ This project uses Python file handling to store and retrieve notes.
 - Saving data between program runs
 
 
-#ANNOUNCEMENT
+# ANNOUNCEMENT
 This project is one of many projects that I will do during my Machine Learning and AI journey. Though it is incomplete, I plan on improving on it in the future.
